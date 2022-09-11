@@ -84,7 +84,7 @@ let resumeData = {
   portfolio: [
     {
       link: "https://br-turismo.vercel.app/",
-      imgurl: "https://i.imgur.com/gUibpbL.png",
+      imgurl: "https://i.imgur.com/HkJalYU.png",
       name: "BR Turismo",
       description:
         "Agência de turismos ficticia feita com intuito de estudar a criação de SPA",
@@ -92,7 +92,7 @@ let resumeData = {
     },
     {
       link: "https://previsao-tempo-three.vercel.app/",
-      imgurl: "https://i.imgur.com/gAyEi8i.png",
+      imgurl: "https://i.imgur.com/hz6PJSR.png",
       name: "Previsão do tempo",
       description:
         "aplicação simples de previsão do tempo usando APIS para busca de cidades e as informações meteorológicas.",
