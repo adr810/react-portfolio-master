@@ -2,8 +2,7 @@ let resumeData = {
   imagebaseurl: "",
   name: "André",
   role: "Front end web developer",
-  roleDescription:
-    "",
+  roleDescription: "",
   socialLinks: [
     {
       name: "André Felipe",
@@ -17,8 +16,8 @@ let resumeData = {
     },
   ],
   aboutme:
-    "Sou recém formado, em Análise e desenvolvimento de sistemas pela FMU. sou um desenvolvedor front end autodidata, fiz um estágio de 2 anos no INSS, onde eu desenvolvia landing pages usando HTML5, CSS e JavaScript.",
-  website: "https://adr810.github.io/react-portfolio/",
+    "Formado em Análise e desenvolvimento de sistemas pela FMU. Sempre fui muito curioso sobre novas técnologias e como elas podem ser aplicadas no seu dia a dia, sempre me caracterizei pelo estilo autodidata",
+  website: "adr-flp.vercel.app",
   email: "adr.flp810@gmail.com",
   address: "Bom Retiro, São Paulo",
   resumelink:
@@ -28,7 +27,7 @@ let resumeData = {
       UniversityName: "Faculdades Metropolitanas Unidas",
       specialization: "tecnólogo",
       MonthOfPassing: "Out",
-      YearOfPassing: "2019",
+      YearOfPassing: "2020",
       Achievements:
         "Ajudei a realizar minha paixão em programação quando comecei o curso de Análise e desenvolvimento de sistemas, no 1º semestre com linguagem Java, algoritimos e logica de programação e nos semetres subsequentes foi apresentada a Estruturas de Dados, SGBD, Sistemas Operacionais, engenharia de software, gestão de projetos e computação para dispositivos móveis",
     },
@@ -38,9 +37,9 @@ let resumeData = {
       CompanyName: "Instituto Nacional do Seguro Social",
       specialization: "Estágio",
       MonthOfJoining: "novembro",
-      YearOfJoining: "2017",
+      YearOfJoining: "2020",
       MonthOfLeaving: "setembro",
-      YearOfLeaving: "2019",
+      YearOfLeaving: "2022",
       Achievements:
         "Estagiário, desenvolvendo atividades de manutenção de computadores, instalaçãode softwares, suporte remoto a usuários e desenvolvimento de landing pages simples",
     },
@@ -70,7 +69,34 @@ let resumeData = {
       skillname: "Css",
     },
     {
-      skillname: "Node",
+      skillname: "Seo",
+    },
+    {
+      skillname: "Git",
+    },
+    {
+      skillname: "Cypress",
+    },
+    {
+      skillname: "Firebase",
+    },
+  ],
+  portfolio: [
+    {
+      link: "https://br-turismo.vercel.app/",
+      imgurl: "https://i.imgur.com/gUibpbL.png",
+      name: "BR Turismo",
+      description:
+        "Agência de turismos ficticia feita com intuito de estudar a criação de SPA",
+      //sourcecode: "projeto",
+    },
+    {
+      link: "https://previsao-tempo-three.vercel.app/",
+      imgurl: "https://i.imgur.com/gAyEi8i.png",
+      name: "Previsão do tempo",
+      description:
+        "aplicação simples de previsão do tempo usando APIS para busca de cidades e as informações meteorológicas.",
+      // sourcecode: "projeto",
     },
   ],
 };

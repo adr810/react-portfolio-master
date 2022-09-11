@@ -364,10 +364,25 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: reactjs 2s ease;
   	-webkit-animation: reactjs 2s ease;   
 }
-.node {
+.seo {
    width: 100%;
-   -moz-animation: node 2s ease;
-   -webkit-animation: node 2s ease;
+   -moz-animation: seo 2s ease;
+   -webkit-animation: seo 2s ease;
+}
+.git {
+   width: 100%;
+   -moz-animation: git 2s ease;
+   -webkit-animation: git 2s ease;
+}
+.cypress {
+   width: 70%;
+   -moz-animation: cypress 2s ease;
+   -webkit-animation: cypress 2s ease;
+}
+.firebase {
+   width: 70%;
+   -moz-animation: firebase 2s ease;
+   -webkit-animation: firebase 2s ease;
 }
 
 

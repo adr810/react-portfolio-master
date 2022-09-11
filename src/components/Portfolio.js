@@ -37,10 +37,7 @@ export default class Porfolio extends Component {
                       <div class="project-links">
                         {item.sourcecode && (
                           <a href={`${item.sourcecode}`} target="_blank">
-                            <i
-                              class="fa fa-2x fa-github"
-                              aria-hidden="true"
-                            ></i>
+                            <i class="fa fa-2x fa-github" aria-hidden="true" />
                           </a>
                         )}
                       </div>
